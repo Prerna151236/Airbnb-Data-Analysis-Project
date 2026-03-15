@@ -18,7 +18,7 @@ How occupancy impacts revenue potential
 
 This project addresses these questions through data analysis and visualization.
 
-📊 Dataset Information
+📊 Dataset Information and link(https://drive.google.com/file/d/1-AGZRCEBRFXva9im0D9tCat30l9_rLqg/view?usp=drivesdk)
 
 Dataset contains Airbnb listing information including pricing, availability, property details, host information, and customer reviews.
 
