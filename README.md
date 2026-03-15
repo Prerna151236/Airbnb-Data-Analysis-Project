@@ -136,8 +136,7 @@ Seaborn
 Power BI
 GitHub
 
-📷 Dashboard Preview
-
+📷 Dashboard Preview("C:\Users\Dell\Desktop\DA Projects\Dashboard.png")
 🚀 Project Workflow
 Raw Dataset
       ↓
